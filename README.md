@@ -2,7 +2,7 @@
 
 ### ✨ [Miralo Aqui](https://alejandrx155.github.io/Flores-Amarillas/)
 
-Página web romántica interactiva hecha con HTML, CSS y JavaScript puro.
+Flores Amarillas , yellow flowers 
 
 ## ¿Qué tiene?
 
