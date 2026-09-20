@@ -12,7 +12,7 @@ Página web romántica interactiva hecha con HTML, CSS y JavaScript puro.
 
 ## Cómo verlo
 
-Abre el archivo `Flores.html` directo en tu navegador, o si activas **GitHub Pages** en este repositorio (Settings > Pages), puedes verlo en vivo desde un link.
+Abre el archivo `index.html` directo en tu navegador, o si activas **GitHub Pages** en este repositorio (Settings > Pages), puedes verlo en vivo desde un link.
 
 ## Tecnologías
 
