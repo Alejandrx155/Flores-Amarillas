@@ -1,6 +1,6 @@
 # 🌻 Flores Amarillas
 
-### ✨ [Ver vista previa en vivo aquí](https://alejandrx155.github.io/Flores-Amarillas/)
+### ✨ [Miralo Aqui](https://alejandrx155.github.io/Flores-Amarillas/)
 
 Página web romántica interactiva hecha con HTML, CSS y JavaScript puro.
 
